@@ -1,9 +1,10 @@
 # RomanNumbersConverter
 Repository made in order to host the Public Website
-# Project Name
 
 ## Description
-Brief description of your project.
+Convert Roman Numbers to Base 10.
+Convert Base10 to Roman Numbers.
+That's it.
 
 ## Installation
 There is no installation required. The website is public and ready to be used.
