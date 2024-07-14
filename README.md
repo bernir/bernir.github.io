@@ -10,7 +10,7 @@ That's it.
 There is no installation required. The website is public and ready to be used.
 
 ## Usage
-Head over to: 
+Head over to: [bernir.github.io](https://bernir.github.io/)
 
 ## Credits
 ### Google Fonts
