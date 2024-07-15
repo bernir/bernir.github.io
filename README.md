@@ -24,4 +24,4 @@ These fonts are property of their respective owners and are used under the licen
 ## License
 This project is protected by copyright. You may not use, distribute, or reproduce any part of this work without explicit permission from the author.
 
-To request permission, please contact Bernardo Ravazzoni at bernardoravazzoni@gmail.com.
+To request permission, please contact Bernardo Ravazzoni at ravazzonibernardo@gmail.com.
